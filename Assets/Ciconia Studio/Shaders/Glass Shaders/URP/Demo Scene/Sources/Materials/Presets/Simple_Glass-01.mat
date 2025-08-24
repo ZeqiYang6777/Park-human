@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Simple_Glass-01
+  m_Shader: {fileID: 4800000, guid: 4ae935bab0143fe4ab16d7e7f9a13579, type: 3}
+  m_Parent: {fileID: 2100000, guid: d9d5c05f93059664488cbacbe2705a61, type: 2}
+  m_ModifiedSerializedProperties: 2
+  m_ValidKeywords:
+  - _USECUBEMAP_OFF
+  m_InvalidKeywords:
+  - _FALLOFFOPACITY_ON
+  - _FRESNELONOFF_ON
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BlurReflection: 0
+    - _BumpScale: 0.1
+    - _Fade: 0
+    - _FalloffOpacity: 1
+    - _FalloffOpacityIntensity: 0
+    - _FresnelStrength: 0
+    - _Glossiness: 1
+    - _IndexofRefraction: 1.3
+    - _Metallic: 0
+    - _Opacity: 0.76
+    - _PowerFalloffOpacity: 5.01
+    - _ReflectionIntensity: 0
+    - _Refraction: 0.22
+    - _UseCubemap: 0
+    m_Colors:
+    - _Color: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
