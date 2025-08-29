@@ -51,15 +51,15 @@ Material:
     - _FresnelPower: 4.38
     - _Metallic: 0
     - _NoiseScale: 77.1
-    - _NormalStrenght: 0.85
+    - _NormalStrenght: 0.78
     - _NormalTiling_X: 4
     - _NormalTiling_Y: 4
     - _NosieAmount: -0.014
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Refraction: 0.652
-    - _Smoothness: 0.5
-    - _Transparency: 0.5
+    - _Refraction: 0.07
+    - _Smoothness: 0.72
+    - _Transparency: 0.92
     - _offsetView: 0.979
     - _offsetView_01: 0.91
     - _offsetView_02: -0.14
